@@ -1,0 +1,10 @@
+{
+    "sync_animated_wallpaper": {
+        "name": "Sync Animated Wallpaper",
+        "author": "@Pon4ickYo",
+        "version": "0.0.5-autoupdate",
+        "description": "Анимированные обои",
+        "min_version": "11.12.0",
+        "icon": "PluginIcons/0"
+    }
+}
